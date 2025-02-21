@@ -1,6 +1,6 @@
 # [SDF01] Challenge: My First Repo 🚀
 
-# 👋 Hi, I'm Reneva Newman
+# 👋 Hi, I'm Reneva Newman. 
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
@@ -67,7 +67,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Reneva-dev)    
-📧 Email: [renevanewman7@gmail.com](mailto:youremail@example.com)
+📧 Email: renevanewman7@gmail.com(mailto:youremail@example.com)
 
 ---
 
