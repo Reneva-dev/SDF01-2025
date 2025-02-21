@@ -1,6 +1,6 @@
 # [SDF01] Challenge: My First Repo 🚀
 
-# 👋 Hi, I'm Reneva Newman. 
+# 👋 Hi, I'm Reneva Newman. I am 32 years old. Born and raised in Cape Town, South Africa. Currrently teaching in the Middle East.
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
