@@ -32,7 +32,7 @@
 
 ## 🏆 Soft Skills
 
-- 🤝 Teamwork & Collaboration- I enjoy working with others and sharing ideas (and struggles)
+- 🤝 Teamwork & Collaboration- I enjoy working with others and sharing ideas. 
 - 📢 Communication Skills- I love talking which has served me well as a teacher
 - 🎯 Problem-Solving- I am good in a crisis but I will eat more chocolate than usual
 - 🚀 Adaptability- I've moved twice to different countries whose cultures are different to my own. 
@@ -73,7 +73,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🚀 Fun Fact
 
-💡 Bananas are berries, but strawberries aren't.
+💡 Bananas are berries, but strawberries aren't. Also, maybe not a fun fact I accidentally edited the challenge bried...oops
 
 ---
 

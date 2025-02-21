@@ -1,6 +1,6 @@
 # [SDF01] Challenge: My First Repo 🚀  
 
-Welcome to your **first GitHub challenge**! This is your chance to explore **version control**, set up your own **repository**, and personalize it as your **first step** toward building real-world projects.  
+Welcome to My First Repo 
 
 
 ## ✅ **Your Mission**  
