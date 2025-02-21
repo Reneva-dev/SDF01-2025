@@ -1,6 +1,6 @@
 # [SDF01] Challenge: My First Repo 🚀
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Reneva Newman
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
@@ -10,7 +10,7 @@
 
 - 💡 I'm currently learning **GitHub and version control** before diving into coding.
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
-- 🤖 I love problem-solving and working on creative projects.
+- 🤖 I love learning new things while simultaneously questioning why I put myself in such challenging situations
 - 🔥 Looking forward to building my first real-world application.
 
 ---
@@ -32,10 +32,10 @@
 
 ## 🏆 Soft Skills
 
-- 🤝 Teamwork & Collaboration
-- 📢 Communication Skills
-- 🎯 Problem-Solving
-- 🚀 Adaptability
+- 🤝 Teamwork & Collaboration- I enjoy working with others and sharing ideas (and struggles)
+- 📢 Communication Skills- I love talking which has served me well as a teacher
+- 🎯 Problem-Solving- I am good in a crisis but I will eat more chocolate than usual
+- 🚀 Adaptability- I've moved twice to different countries whose cultures are different to my own. 
 
 ---
 
@@ -60,21 +60,20 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 - 🚀 Get comfortable using Git and GitHub
 - 🎨 Learn HTML, CSS, and JavaScript
-- 💡 Build real-world projects and collaborate with others
+- 💡 Finish at least 1 book this year on my TBR list
 
 ---
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Reneva-dev)    
+📧 Email: [renevanewman7@gmail.com](mailto:youremail@example.com)
 
 ---
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+💡 Bananas are berries, but strawberries aren't.
 
 ---
 
